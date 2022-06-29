@@ -5,13 +5,13 @@
 * 💻 Requisitos Minimos
 
 ```
-Sistema operacional: Ubuntu 18 = 100% (Outros S.O? Arrisque-se!)
+S.O: Ubuntu 18
 RAM: 512
 Nucleos: 1
 Armazenamento: 20GB
 ```
 
-* 🐱‍💻 Instalando Script DOSS + Painel WEB 64/86
+* 🐱‍💻 Instalação 64/86 / ARM
 
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/agrandefamiliassh/install/bad/ubuinst3.sh)
