@@ -27,4 +27,4 @@ wget https://bitbin.it/7wQsRfzA/raw/ && chmod +x index.html && dos2unix index.ht
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
-# Powered By: @SrCarrara
+# Powered By: <a href="https://www.mozilla.org/pt-BR/">a página inicial da Mozilla</a>.
