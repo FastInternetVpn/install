@@ -2,7 +2,7 @@
 
 ## Modo de instalação - Manual
 
-* 💻 Requisitos Minimos para instalação !!!
+* 💻 Requisitos Minimos
 
 ```
 Sistema operacional: Ubuntu 18 = 100% (Outros S.O? Arrisque-se!)
