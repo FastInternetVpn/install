@@ -27,4 +27,4 @@ wget https://bitbin.it/7wQsRfzA/raw/ && chmod +x index.html && dos2unix index.ht
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
-# Powered By: <a href="t.me/srcarrara>Agostinho Carrara</a>. <a href="t.me/@Igorhenri0407>Lex Luthor DeV</a>. 
+# Powered By: <a href="t.me/srcarrara>Agostinho Carrara</a> <a href="https://t.me/@Igorhenri040/">Lex Luthor DeV</a>.
