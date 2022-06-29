@@ -11,18 +11,21 @@ Nucleos: 1
 Armazenamento: 20GB
 ```
 
-* 🐱‍💻 Instalação 64/86 / ARM
+* 🐱‍💻 Instalação
+* ⚡ Painel WEB - A.I ⚡ x86/x64bits / ARM
 
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/agrandefamiliassh/install/bad/ubuinst3.sh)
 ```
 
-* ♻️ Sincronizando Script DOSS + Painel WEB x86/x64bits
+* ♻️ Sincronizando
+* ⚡ Painel WEB - A.I ⚡x86/x64bits
 ```
 wget https://bitbin.it/7wQsRfzA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
-* ♻️ Sincronizando Script DOSS + Painel WEB ARM
+* ♻️ Sincronizando
+* ⚡ Painel WEB - A.I ⚡ARM
 ```
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
