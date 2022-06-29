@@ -1,6 +1,6 @@
 # ⚡ Painel WEB - A.I ⚡
 
-## Modo de instalacao manual
+## Modo de instalação - Manual
 
 * 💻 Requisitos Minimos para instalação !!!
 
