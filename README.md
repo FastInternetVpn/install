@@ -18,6 +18,12 @@ Armazenamento: 20GB
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/agrandefamiliassh/install/bad/ubuinst3.sh)
 ```
 
+* 🐱‍💻 Instalação DB Conecta 4G
+* ⚡ Painel WEB - A.I ⚡ x86/x64bits / ARM
+```
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nandoslayer/install/bad/bancoconecta.sh)
+```
+
 * ♻️ Sincronizando
 * ⚡ Painel WEB - A.I ⚡x86/x64bits
 ```
