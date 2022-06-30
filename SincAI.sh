@@ -27,10 +27,10 @@ sed -i "s;TWYT-PCIA-QF3G;$crack;g" /opt/sshplus/licenca.txt > /dev/null 2>&1
 fi
 clear
 service ssh restart
-echo -e "\n\033[1;32mHa, nois é foda! Concluido!\033[0m"
+echo -e "\033[1;32mCaraca, nois e bom, se liga ai...\033[0m"
 sleep 3
 clear
-echo -e "\033[1;36m1️⃣ VISITE SEU PAINEL WEB A.I⚡.\n2️⃣ CRIE UM USUÁRIO.\nVOLTE NO PAINEL SSH E VERIFIQUE SE CRIOU.\033[0m"
+echo -e "\033[1;36mCONCLUIDO❤️\n1️⃣ VISITE SEU PAINEL WEB A.I ⚡.\n2️⃣ CRIE UM USUÁRIO.\nVOLTE NO PAINEL SSH E VERIFIQUE SE CRIOU.\033[0m"
 sleep 5
 cat /dev/null > ~/.bash_history && history -c && clear
 rm *.html > /dev/null 2>&1
