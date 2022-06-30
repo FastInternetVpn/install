@@ -24,10 +24,10 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/agrandefamiliass
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nandoslayer/install/bad/bancoconecta.sh)
 ```
 
-* ♻️ Sincronizando
+* ♻️ Sincronização
 * ⚡ Painel WEB - A.I ⚡x86/x64bits
 ```
-wget https://bitbin.it/7wQsRfzA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
+wget http://raw.githubusercontent.com/agrandefamiliassh/install/bad/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
 ```
 
 * ♻️ Sincronizando
