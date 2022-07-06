@@ -21,7 +21,7 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/SrCarrara/instal
 * 🐱‍💻 Instalação
 * ⚡ Painel WEB - A.I ⚡ DB CONECTA 4g
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nandoslayer/install/bad/bancoconecta.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/SrCarrara/install/bad/bancoconecta.sh)
 ```
 
 * ♻️ Sincronização
