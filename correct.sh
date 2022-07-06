@@ -3,7 +3,7 @@ painel_rest () {
 clear
 mkdir /root/restaurar > /dev/null 2>&1
 cd /root/restaurar || exit
-wget https://github.com/nandoslayer/pweb/raw/painel/install/correct.sql > /dev/null 2>&1
+wget https://github.com/SrCarrara/pweb/raw/painel/install/correct.sql > /dev/null 2>&1
 cd || exit
 clear
 echo ""
