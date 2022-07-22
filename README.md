@@ -1,4 +1,4 @@
-## ⚡ Painel WEB - Fast Internet VPN OFICIAL ⚡
+## ⚡ Fast Internet VPN - Painel WEB ⚡
 
 ## Modo de instalação - Manual
 
