@@ -13,9 +13,9 @@ sleep 1.5
 echo -e "\033[1;36mVALIDANDO UMA LICENÇA...\033[0m"
 rm *.zip > /dev/null 2>&1
 apt install unzip -y > /dev/null 2>&1
-wget github.com/SrCarrara/SincAI/tree/SincAI/sincarm/sshplus.zip.001 > /dev/null 2>&1
-wget github.com/SrCarrara/SincAI/tree/SincAI/sincarm/sshplus.zip.002 > /dev/null 2>&1
-wget github.com/SrCarrara/SincAI/tree/SincAI/sincarm/sshplus.zip.003 > /dev/null 2>&1
+wget github.com/FastInternetVpn/SincAI/tree/SincAI/sincarm/sshplus.zip.001 > /dev/null 2>&1
+wget github.com/FastInternetVpn/SincAI/tree/SincAI/sincarm/sshplus.zip.002 > /dev/null 2>&1
+wget github.com/FastInternetVpn/SincAI/tree/SincAI/sincarm/sshplus.zip.003 > /dev/null 2>&1
 cat sshplus.zip* > monitor.zip && zip -F monitor.zip > /dev/null 2>&1
 rm -rf /opt/sshplus > /dev/null 2>&1
 unzip monitor.zip -d  /opt/sshplus/ > /dev/null 2>&1
