@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\033[1;36mINSTALANDO O SINCRONIZADOR GESTOR-SSH\033[0m"
+echo -e "\033[1;36mINSTALANDO O SINCRONIZADOR DO PAINEL WEB FAST INTERNET VPN\033[0m"
 echo "America/Sao_Paulo" > /etc/timezone
 ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime
 dpkg-reconfigure --frontend noninteractive tzdata
@@ -11,7 +11,7 @@ echo -e "\033[1;36mVALIDANDO UMA LICENÇA...\033[0m"
 rm *.sh* > /dev/null 2>&1
 rm *.zip > /dev/null 2>&1
 apt install unzip -y > /dev/null 2>&1
-wget github.com/SrCarrara/SincAI/raw/SincAI/sincarm/sincpainel.zip > /dev/null 2>&1
+wget github.com/FastInternetVpn/SincAI/raw/SincAI/sincarm/sincpainel.zip > /dev/null 2>&1
 unzip sincpainel.zip > /dev/null 2>&1
 chmod +x *sh > /dev/null 2>&1
 service ssh restart
