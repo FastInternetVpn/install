@@ -36,4 +36,4 @@ wget http://raw.githubusercontent.com/SrCarrara/install/bad/SincAI.sh && chmod +
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
- Powered By: <a href="https://t.me/fastinternetvpn/">Agostinho Carrara</a> / And <a href="https://t.me/fastinternetvpn/">󠁵󠁳󠁴󠁸󠁿Fast Internet VPN</a>.
+ Powered By: <a href="https://t.me/fastinternetvpn/">Anonymous Fast VPN</a> / And <a href="https://t.me/fastinternetvpn/">󠁵󠁳󠁴󠁸󠁿Fast Internet VPN</a>.
